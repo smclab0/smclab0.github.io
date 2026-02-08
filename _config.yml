@@ -3,15 +3,9 @@ description: A personal blog about technology, homelab, and more.
 url: "https://smclab0.github.io"
 baseurl: ""
 
-theme: minima
-
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
-# Minima theme settings
-minima:
-  skin: auto
 
 # Build settings
 markdown: kramdown
